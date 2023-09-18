@@ -22,12 +22,12 @@ signIn_btn = driver.find_element(By.XPATH,'//a[@aria-label="Sign in"]').click()
 time.sleep(5)
 
 # Type the text you want to write
-pyautogui.write("maqbooldot786@gmail.com")
+pyautogui.write("your_email_address")
 
 # Press the Enter key
 pyautogui.press("enter")
 time.sleep(4)
-pyautogui.write("webscrapper786")
+pyautogui.write("your_password")
 
 # Press the Enter key
 pyautogui.press("enter")

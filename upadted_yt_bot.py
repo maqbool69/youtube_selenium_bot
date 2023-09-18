@@ -6,8 +6,8 @@ import time
 
 # Define a list of account credentials
 accounts = [
-    {"email": "maqbooldot786@gmail.com", "password": "webscrapper786", "message": "Hey guys, How're you doin!"},
-    {"email": "godsu16@gmail.com", "password": "test2023!", "message": "I guess all noobs are sleeping!"},
+    {"email": "your_email", "password": "your_password", "message": "Hey guys, How're you doin!"},
+    {"email": "your_email", "password": "your_password", "message": "I guess all noobs are sleeping!"},
 ]
 
 def login_and_automate(account):
